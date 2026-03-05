@@ -37,6 +37,22 @@
 
 ---
 
+# 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.instagram.com/_januu._04?igsh=MXh0dngwZ25tamNrdg%3D%3D&utm_source=qr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/share/1KrDu6pGBc/?mibextid=wwXIfr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/94719431880" target="blank">
+    WhatsApp
+  </a>
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
